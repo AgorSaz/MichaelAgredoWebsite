@@ -205,8 +205,20 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2374px;
+  }
+
   .u-section-1 .u-text-1 {
     font-size: 3rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 52px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-bottom: 1px;
   }
 }
 
