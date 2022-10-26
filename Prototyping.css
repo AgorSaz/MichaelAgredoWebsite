@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1346px;
+  min-height: 1991px;
 }
 
 .u-section-1 .u-text-1 {
@@ -88,7 +88,7 @@
 .u-section-1 .u-gallery-2 {
   height: 310px;
   width: 547px;
-  margin: 41px auto 60px;
+  margin: 41px auto 0;
 }
 
 .u-section-1 .u-carousel-indicators-2 {
@@ -211,6 +211,74 @@
   padding: 12px;
 }
 
+.u-section-1 .u-text-4 {
+  font-size: 0.875rem;
+  margin: 200px 0 0;
+}
+
+.u-section-1 .u-gallery-3 {
+  height: 310px;
+  width: 547px;
+  margin: 41px auto 60px;
+}
+
+.u-section-1 .u-carousel-indicators-3 {
+  position: absolute;
+  top: auto;
+  bottom: -18px;
+}
+
+.u-section-1 .u-carousel-item-11 {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-over-slide-11 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-1 .u-carousel-item-12 {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-over-slide-12 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-1 .u-carousel-item-13 {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-over-slide-13 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-1 .u-carousel-control-5 {
+  position: absolute;
+  left: -50px;
+  width: 40px;
+  height: 40px;
+  right: auto;
+  padding: 12px;
+}
+
+.u-section-1 .u-carousel-control-6 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: auto;
+  right: -50px;
+  padding: 12px;
+}
+
 @media (max-width: 991px) {
   .u-section-1 .u-text-2 {
     width: auto;
@@ -243,13 +311,15 @@
   .u-section-1 .u-gallery-2 {
     width: 540px;
   }
+
+  .u-section-1 .u-gallery-3 {
+    width: 540px;
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1188px;
-  }
-
   .u-section-1 .u-text-2 {
     margin-top: 84px;
   }
@@ -284,6 +354,11 @@
     top: auto;
     right: 66px;
     bottom: -81px;
+  }
+
+  .u-section-1 .u-gallery-3 {
+    height: 177px;
+    width: 340px;
   }
 }
 
